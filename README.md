@@ -13,5 +13,5 @@ At this point, you can just activate jupyter-notebook and run simulations locall
 3. Somewhere in a Jupyter-Notebook or python script, evaluate the following code:
 
 
-   `import IBMQ`
+   `import IBMQ` <br>
    `IBMQ.save_account('your-token-here')`
