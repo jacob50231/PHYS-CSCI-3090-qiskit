@@ -11,5 +11,7 @@ At this point, you can just activate jupyter-notebook and run simulations locall
 1. Create an account at: https://quantum-computing.ibm.com/
 2. Copy API token from the dashboard
 3. Somewhere in a Jupyter-Notebook or python script, evaluate the following code:
+
+
    `import IBMQ`
    `IBMQ.save_account('your-token-here')`
