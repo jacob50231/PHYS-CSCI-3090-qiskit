@@ -1,7 +1,7 @@
 # Setup
 
 1. Go to [this link](https://docs.anaconda.com/anaconda/install/) and follow the directions to install for your operating system.
-2. For Mac/Linux open terminal, for PC search up "Anaconda Prompt"
+2. For Mac/Linux open your terminal. For PC open up the "Anaconda Navigator" application go to environments, click the green play button, and then click "Open Terminal".
 3. Navigate to the directory of this repository (for example `cd ~/Desktop/PHYS-CSCI-3090-qiskit/`)
 4. Create environment from environment.yml file: `conda env create -f environment.yml`
 5. Activate environment: `conda activate Quantum_Computing`
