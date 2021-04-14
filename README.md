@@ -6,7 +6,7 @@
 4. Create environment from environment.yml file: `conda env create -f environment.yml`
 5. Activate environment: `conda activate Quantum_Computing`
 
-At this point, you can just activate jupyter-notebook and run simulations locally. If you'd like to set up to run on actual IBM quantum devices follow the steps below.
+At this point, you can just activate Jupyter Notebook by typing the command `jupyter-notebook` into your shell and run simulations locally. If you'd like to set up to run on actual IBM quantum devices follow the steps below.
 
 1. Create an account at: https://quantum-computing.ibm.com/
 2. Copy API token from the dashboard
